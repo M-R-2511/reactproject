@@ -10,7 +10,7 @@ function App() {
       <Header title={["mohamed", "Ahmed", "Hesham"]} />
       <h1>this is content section</h1>
       <Content name={[1, 2, 3, 4, 5]} />
-      <Footer contactUs="any thing" />
+      <Footer num = {[1,2,3,4,5]} />
     </>
   );
 }
